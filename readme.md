@@ -1,0 +1,1 @@
+Olá esse é um projeto onde eu estudo os principios do python, sou iniciante e estou praticando.
